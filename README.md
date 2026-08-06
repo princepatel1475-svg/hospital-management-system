@@ -11,7 +11,7 @@ with live Excel synchronization and auto-calculated summary reporting.
 
 | Pharmacy / Medical Store | Reports & Live Summary |
 |---|---|
-| ![Pharmacy tab](screenshots/pharmacy_medical_store.png) | ![Reports tab](screenshots/reports_summary.png) |
+| ![Pharmacy tab](https://github.com/princepatel1475-svg/hospital-management-system/blob/main/pharmacy_medical_store.png) | ![Reports tab](screenshots/reports_summary.png) |
 
 ## Features
 - Normalized relational schema across 7 tables: `patients`, `staff`, `doctors`, `appointments`,
