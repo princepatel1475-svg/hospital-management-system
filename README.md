@@ -100,11 +100,4 @@ hospital_management_system/
 └── README_oracle.md
 ```
 
-## CV Bullet Points (ready to use — Oracle version)
-- Designed and implemented a relational database-backed hospital management system in Oracle DB, with normalized schemas spanning patients, staff, doctors, appointments, billing, and pharmacy/medical-store inventory.
-- Built a multi-module GUI interface for real-time data entry and management, enforcing data integrity constraints (foreign keys, CHECK constraints, computed columns) across all operations.
-- Implemented automated business logic at the database level, including a trigger that auto-decrements pharmacy stock on every medicine sale.
-- Developed live Excel synchronization — any change made through the GUI automatically updates a linked, multi-sheet Excel workbook, with a one-click download option for offline access and reporting.
-- Added auto-calculated summary statistics (total patients, daily appointments, billing revenue, pharmacy revenue, pending payments) within the Excel export, enabling quick at-a-glance reporting without manual formula setup.
 
-**Updated Key Skills:** Oracle DB, SQL, PL/SQL, Schema Design, Python, Excel Automation, GUI Development, Database Design, Relational Data Modeling
