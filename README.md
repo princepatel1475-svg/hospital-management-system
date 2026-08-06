@@ -7,7 +7,7 @@ with live Excel synchronization and auto-calculated summary reporting.
 
 | Doctors | Billing |
 |---|---|
-| ![Doctors tab](https://github.com/princepatel1475-svg/hospital-management-system/blob/main/doctors.png) | ![Billing tab](screenshots/billing.png) |
+| ![Doctors tab](https://github.com/princepatel1475-svg/hospital-management-system/blob/main/doctors.png) | ![Billing tab](https://github.com/princepatel1475-svg/hospital-management-system/blob/main/billing.png) |
 
 | Pharmacy / Medical Store | Reports & Live Summary |
 |---|---|
